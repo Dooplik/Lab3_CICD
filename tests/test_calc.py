@@ -1,5 +1,5 @@
 import pytest
-import ma_lib
+from src import ma_lib
 
 
 # тест функции осуществляющей логику калькулятора

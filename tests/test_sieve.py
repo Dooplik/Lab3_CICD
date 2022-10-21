@@ -1,5 +1,5 @@
 import pytest
-import ma_lib
+from src import ma_lib
 
 
 # тест функции выполняющей поиск простых чисел до заданного
